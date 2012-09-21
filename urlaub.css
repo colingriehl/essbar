@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+/* Header */
+body {
+	padding: 0px;
+	margin: 0px;
+	width: auto;
+	font-family: Georgia;
+	min-width:1260px;
+	background-color:#000;
+}
+img, a{
+    border:none;
+}
+.urlaub{
+	width:auto;	
+	background-color:#000;
+	text-align: center;
+
+}
+.urlaubimg{
+	margin-left:3px;	
+}

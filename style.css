@@ -1,0 +1,229 @@
+@CHARSET "UTF-8";
+/* Header */
+body {
+	padding: 0px;
+	margin: 0px;
+	width: auto;
+	font-family: Georgia;
+	min-width:1260px;
+}
+img, a{
+    border:none;
+}
+.topframe{
+	width:auto;	
+	
+	background-image:url(image/bgtop.jpg);
+	background-repeat:repeat;
+}
+.top {
+	padding-top:50px;
+    height: 480px;
+    width: 1260px;  
+    margin-left:auto;  
+	margin-right:auto;
+}
+.header {
+	margin-left: 120px;
+	width: 1080px;
+	height:50px;		
+}
+.logo {	
+	width: 320px;
+	height:40px;
+	float: left;
+	
+	font-size:40px;
+}
+.address{	
+    padding-top:5px;
+    float: left;
+    width: 540px;
+}
+.social{	
+    float: left;
+    padding-top:5px;
+	padding-left:13px;
+    width: 70px;
+}
+.street, .open, .tel{
+	font-size:15px;
+	float:left;
+	width: 160px;
+}
+.tel{
+	width:180px;
+}
+.slogan {
+    height: 390px;
+    width: 400px;  
+    margin-left:120px;
+    padding-top:40px;  
+    font-size:40px;
+    color:#695C57;
+	line-height:50px;
+    float: left;
+}
+.slideshow{
+
+    width: 450px;
+    height: 430px;
+    float: left;
+}
+.picinfo{
+    margin-top:40px;
+    font-style:italic;
+    font-size:15px;
+	line-height:100%;	
+	padding:0px;
+	display: none;
+}
+.picinfo ul{
+	margin:0px;
+	margin-left:-40px;
+}
+.picinfo ul li {
+	float:left;
+	position:absolute;
+	list-style: none;
+	margin:0px;
+	padding:0px;
+}
+.picinfo ul li.show {
+	z-index:500
+}
+.dots{
+    margin-top:40px;
+}
+.dot{margin-top:50px; margin-left:2px;}
+.dott{margin-right:10px;}
+/* rotator in-page placement */
+.rotator {
+	width: 450px;
+    height: 430px;
+    float: left;
+	margin:0px;
+	padding:0px;
+	display: none;
+}
+.rotator ul{
+	margin:0px;
+	margin-left:-40px;
+}
+/* rotator css */
+.rotator ul li {
+	float:left;
+	position:absolute;
+	list-style: none;
+	margin:0px;
+	padding:0px;
+}
+.rotator ul li.show {
+	z-index:500
+}
+/* Posts and Pictures */
+.middleframe{
+    width:auto; 
+    background-image:url(image/bgmiddle.jpg);
+    background-repeat:repeat;
+}
+.middle {
+    height: 550px;
+    width: 1260px;  
+    margin-left:auto;  
+    margin-right:auto;
+}
+.posts{
+    margin-left: 120px;
+    overflow: hidden;
+    width: 480px;
+    height: 430px;
+    float: left;
+    padding-top:60px;
+}
+.pictures{
+    
+    width: 490px;
+    height: 510px;
+    float: left;
+    padding-top:60px;
+}
+.postdate{
+    margin-top:0px;
+    font-size:15px;
+    font-style:italic;
+}
+.posttext{
+    font-size:15px;
+    color:white;
+	width:400px;
+	margin-bottom:30px;
+}
+.thumbs{
+	width:140px;
+	margin-right:20px;
+	overflow:hidden;
+	float:left;
+	height:130px;
+}
+.picrow{
+	height:130px;
+	margin-bottom:20px;
+}
+/* Footer und impressum*/
+.bottomframe{
+    width:auto; 
+    background-image:url(image/bgbottom.jpg);
+    background-repeat:repeat;
+}
+.bottom {
+    height: 380px;
+    width: 1260px;  
+    margin-left:auto;  
+    margin-right:auto;
+}
+.reservetext, .reservetel, .reserveadr, .reserveopen{
+	float:left;
+	color:white;
+	font-size:13px;
+}
+.reservetext, .reserveadr, .reserveopen{
+	padding-top:5px;
+}
+.reservetext{width:240px;}
+.reserveadr{width:160px;}
+.reservetel{
+	font-size:32px;
+	width:400px;
+}
+.reserve{
+	
+	margin-left:120px;
+	padding-top:50px;
+	height:100px;
+}
+.imprint{
+	
+	margin-left:120px;
+}
+.doneby, .imprinttext{float:left;}
+.doneby{
+	width:240px;
+	font-size:13px;
+}
+.imprinttext{
+	width:700px;
+	font-size:13px;
+}
+.plogo{font-size:32px;margin-top:0px;}
+
+.urlaub{
+	width:auto;	
+	background-image:url(image/bgtop.jpg);
+	background-repeat:repeat;
+	text-align: center;
+
+}
+.urlaubimg{
+	margin-left:3px;	
+}
