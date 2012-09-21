@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="urlaub">
-<div class="urlaubimg"><img src="image/xmas.jpg"></div>
+<div class="urlaubimg"><img src="image/urlaub_herbst_2012.jpg"></div>
 </div>
 </body>
 </html>
