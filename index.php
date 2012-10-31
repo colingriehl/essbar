@@ -110,32 +110,45 @@ $(document).ready(function() {
 			möglich zu machen
 			<div class="picinfo">
 			<ul>
-				<li class="show">(Lachstartar| Avocado | Wildkräuter)<br />
+				<li class="show">(Ziegenkäse im Filoteig | Birne | Walnuss)<br />
 					<div class="dot">
+						<img class="dott" src="image/dot_aktiv.png" />
+						<img class="dott" src="image/dot_inaktiv.png" />
+						<img class="dott" src="image/dot_inaktiv.png" />
+						<img class="dott" src="image/dot_inaktiv.png" />
+						<img class="dott" src="image/dot_inaktiv.png" />
+					</div>
+				</li>
+				<li>(Thaisalat | Roastbeef | Limette)<br />
+					<div class="dot">
+						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_aktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 					</div>
 				</li>
-				<li>(Forelle im Backpapier | Fenchel | Zitrone)<br />
+				<li>(Entenbrust | Rotkohl | Vanillebutter)<br />
 					<div class="dot">
+						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_aktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 					</div>
 				</li>
-				<li>(Rhabarberstrudel | Erdbeersorbet)<br />
+				<li>(Stubenküken | Szechuanpfeffer | Pflaumen)<br />
 					<div class="dot">
+						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_aktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 					</div>
 				</li>
-				<li>(Moshi | gemischter Sushi Teller)<br />
+				<li>(Minipulpo | Fenchel | Pasta)<br />
 					<div class="dot">
+						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
 						<img class="dott" src="image/dot_inaktiv.png" />
