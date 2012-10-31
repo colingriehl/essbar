@@ -165,6 +165,7 @@ $(document).ready(function() {
 				<li><img src="image/rotate/02.png" width="540" height="430"  alt="pic1" /></li>
 				<li><img src="image/rotate/03.png" width="540" height="430"  alt="pic1" /></li>
 				<li><img src="image/rotate/04.png" width="540" height="430"  alt="pic1" /></li>
+				<li><img src="image/rotate/05.png" width="540" height="430"  alt="pic1" /></li>
 			  </ul>
 			</div>	   
 		</div>
