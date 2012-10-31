@@ -161,11 +161,11 @@ $(document).ready(function() {
 			
 		   <div class="rotator">
 			  <ul>
-				<li class="show"><img src="image/rotate/01.png" width="540" height="430"  alt="pic1" /></li>
-				<li><img src="image/rotate/02.png" width="540" height="430"  alt="pic1" /></li>
-				<li><img src="image/rotate/03.png" width="540" height="430"  alt="pic1" /></li>
-				<li><img src="image/rotate/04.png" width="540" height="430"  alt="pic1" /></li>
-				<li><img src="image/rotate/05.png" width="540" height="430"  alt="pic1" /></li>
+				<li class="show"><img src="image/rotate/1.png" width="540" height="430"  alt="pic1" /></li>
+				<li><img src="image/rotate/2.png" width="540" height="430"  alt="pic1" /></li>
+				<li><img src="image/rotate/3.png" width="540" height="430"  alt="pic1" /></li>
+				<li><img src="image/rotate/4.png" width="540" height="430"  alt="pic1" /></li>
+				<li><img src="image/rotate/5.png" width="540" height="430"  alt="pic1" /></li>
 			  </ul>
 			</div>	   
 		</div>
