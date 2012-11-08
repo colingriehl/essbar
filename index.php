@@ -173,6 +173,7 @@ $(document).ready(function() {
 	<div class="middleframe">
 	<div class="middle">
 <?php
+include_once("ganalytics.php");
 $request = 'http://www.blogger.com/feeds/6567822141383018801/posts/default?alt=json&max-results=4';
 $curl = curl_init();
 curl_setopt($curl,CURLOPT_RETURNTRANSFER,true);
